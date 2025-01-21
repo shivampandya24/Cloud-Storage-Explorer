@@ -1,6 +1,6 @@
-# Win Cloud Explorer
+# Cloud Storage Explorer
 
-**Win Cloud Explorer** is a powerful and user-friendly desktop application for managing Amazon S3 resources. This tool provides an intuitive interface for uploading, downloading, browsing, and managing files and folders in your Amazon S3 buckets.
+**Storage Cloud Explorer** is a powerful and user-friendly desktop application for managing Amazon S3 resources. This tool provides an intuitive interface for uploading, downloading, browsing, and managing files and folders in your Amazon S3 buckets.
 
 ## Features
 

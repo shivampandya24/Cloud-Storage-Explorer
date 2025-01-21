@@ -79,7 +79,7 @@
 
 ## Screenshots
 
-### Main Interface
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/d641b0f2-5bf2-4a28-bdb5-b9d9a5a14196" />
 
 ### File Tree
 

@@ -1,6 +1,6 @@
-# Win Cloud Explorer
+# Cloud Storage Explorer
 
-**Win Cloud Explorer** is a powerful and user-friendly desktop application for managing Amazon S3 resources. This tool provides an intuitive interface for uploading, downloading, browsing, and managing files and folders in your Amazon S3 buckets.
+**Cloud Storage Explorer** is a powerful and user-friendly desktop application for managing cloud storage. It supports AWS and GCP for now. This tool provides an intuitive interface for uploading, downloading, browsing, and managing files and folders in your storage buckets.
 
 ## Features
 
@@ -42,19 +42,19 @@
 1.  Clone the repository from GitHub:
     
     ```
-    git clone https://github.com/shivampandya24/Win-Cloud-Explorer.git
+    git clone https://github.com/shivampandya24/Cloud-Storage-Explorer.git
     ```
     
 2.  Navigate to the project directory:
     
     ```
-    cd Win-Cloud-Explorer
+    cd Cloud-Storage-Explorer
     ```
     
 3.  Run the application:
     
     ```
-    python wce.py
+    python setup.py
     ```
     
 
@@ -75,19 +75,6 @@
     -   **Delete File/Folder**: Delete selected items from the bucket.
         
 5.  View and manage bucket contents using the file tree.
-    
-
-## Screenshots
-
-### Main Interface
-
-### File Tree
-
-## Developer Information
-
-**Developer**: Shivam Pandya
-
--   **GitHub**: [shivampandya24](https://github.com/shivampandya24/Win-Cloud-Explorer)
     
 
 ## Contributing
